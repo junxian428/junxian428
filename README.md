@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 Tech Stack:
 Front-end: Vuejs, ReactJS, Swift, Java
+
 Back-end: Ruby On Rails, Laravel, Django, Express, Nodejs
+
 Database: MySQL, Cassandara, Mondb
 
 (Learning)
