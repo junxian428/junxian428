@@ -37,17 +37,17 @@ ________________________________________________________________________________
 
 CentOS alternatives:
 
-Rocky Linux
+1.Rocky Linux
 
-CentOS Stream
+2.CentOS Stream
 
-Debian 
+3.Debian 
 
-Oracle Linux
+4.Oracle Linux
 
-FreeBSD 
+5.FreeBSD 
 
-OpenSuSE 
+6.OpenSuSE 
 
 https://youtu.be/2yH9i1txGeI
 
