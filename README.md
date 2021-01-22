@@ -35,7 +35,6 @@ Github.io && Google Drive Hosting:
 URL : https://junxian428.github.io/
 
 URL: https://x6kuvtgreaqgxwcnz4dbxq-on.drv.tw/www.junxian666.com/
-
 External Paper Certificate:
 
 URL: 
