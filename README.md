@@ -26,6 +26,9 @@ Database: MySQL, Cassandara, Mondb
 
 (Learning)
 
+
+![alt text](https://user-images.githubusercontent.com/58724748/105654285-a8185780-5ef8-11eb-8333-d8cc3ff950f8.gif)
+
 Stackoverflow profile:
 
 URL: https://stackoverflow.com/users/15002785/ho-weng-yin?tab=profile
