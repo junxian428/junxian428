@@ -14,17 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Tech Stack:
-Front-end: Vuejs, ReactJS, Swift, Java
-
-Back-end: Ruby On Rails, Laravel, Django, Express, Nodejs
-
-Database: MySQL, Cassandara, Mondb
-
-1. MERN
-2. LAMP
-
-(Learning)
 
 
 ![alt text](https://user-images.githubusercontent.com/58724748/105654285-a8185780-5ef8-11eb-8333-d8cc3ff950f8.gif)
@@ -45,21 +34,6 @@ URL:
 
 ![alt text](https://ionicabizau.github.io/github-profile-languages/api.html?junxian428")
 
-CentOS alternatives:
-
-1.Rocky Linux
-
-2.CentOS Stream
-
-3.Debian 
-
-4.Oracle Linux
-
-5.FreeBSD 
-
-6.OpenSuSE 
-
-https://youtu.be/2yH9i1txGeI
 
 [![Watch the video](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f4296731256533.5648cb85dc506.jpg)](https://youtu.be/wfHaH1Xvws8)
 
