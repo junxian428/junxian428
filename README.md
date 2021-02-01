@@ -28,11 +28,6 @@ URL : https://junxian428.github.io/
 
 URL: https://x6kuvtgreaqgxwcnz4dbxq-on.drv.tw/www.junxian666.com/
 
-External Paper Certificate:
-
-URL: 
-
-![alt text](https://ionicabizau.github.io/github-profile-languages/api.html?junxian428")
 
 
 [![Watch the video](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f4296731256533.5648cb85dc506.jpg)](https://youtu.be/wfHaH1Xvws8)
