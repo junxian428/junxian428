@@ -19,6 +19,8 @@ Performance:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=junxian428&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junxian428&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![alt text](https://github-profile-trophy.vercel.app/?username=junxian428&theme=dracula)
+
 
 Stackoverflow profile:
 
@@ -34,6 +36,5 @@ URL: https://x6kuvtgreaqgxwcnz4dbxq-on.drv.tw/www.junxian666.com/
 
 [![Watch the video](https://mir-s3-cdn-cf.behance.net/project_modules/fs/f4296731256533.5648cb85dc506.jpg)](https://youtu.be/wfHaH1Xvws8)
 
-![alt text](https://github-profile-trophy.vercel.app/?username=junxian428&theme=dracula)
 
 
