@@ -22,23 +22,17 @@ Performance:
 ![alt text](https://github-profile-trophy.vercel.app/?username=junxian428&theme=dracula)
 
 
-Stackoverflow profile:
+Stackoverflow profile URL: https://stackoverflow.com/users/15002785/ho-weng-yin?tab=profile
 
-URL: https://stackoverflow.com/users/15002785/ho-weng-yin?tab=profile
+Github.io && Google Drive Hosting URL : https://junxian428.github.io/
 
-Github.io && Google Drive Hosting:
+Google Drive URL: https://x6kuvtgreaqgxwcnz4dbxq-on.drv.tw/www.junxian666.com/
 
-URL : https://junxian428.github.io/
+Infinity Free URL: junxian666.42web.io Dynamic Hosting https://junxian666.42web.io/project1/
 
-URL: https://x6kuvtgreaqgxwcnz4dbxq-on.drv.tw/www.junxian666.com/
+Heroku URL: https://junxian666.herokuapp.com/
 
-URL: junxian666.42web.io Dynamic Hosting
-
-URL: https://junxian666.herokuapp.com/
-
-https://junxian666.42web.io/project1/
-
-https://junxian-github.web.app
+FireBase: https://junxian-github.web.app
 
 ![alt text](https://user-images.githubusercontent.com/58724748/105654285-a8185780-5ef8-11eb-8333-d8cc3ff950f8.gif)
 
