@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://metrics.lecoq.io/junxian428)
+![Metrics](https://metrics.lecoq.io/junxian428/junxian428/blob/master/github-metrics.svg)
 
 <!--
 **junxian428/junxian428** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
