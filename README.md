@@ -30,7 +30,11 @@ Github.io && Google Drive Hosting URL : https://junxian428.github.io/
 
 Google Drive URL: https://x6kuvtgreaqgxwcnz4dbxq-on.drv.tw/www.junxian666.com/
 
-Infinity Free URL: junxian666.42web.io Dynamic Hosting https://junxian666.42web.io/project1/
+Infinity Free URL: junxian666.42web.io Dynamic Hosting
+
+1. https://junxian666.42web.io/project1/
+
+2. http://howengyin.great-site.net/
 
 Heroku URL: https://junxian666.herokuapp.com/
 
