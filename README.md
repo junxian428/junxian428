@@ -28,6 +28,8 @@ Stackoverflow profile URL: https://stackoverflow.com/users/15002785/ho-weng-yin?
 
 Github.io && Google Drive Hosting URL : https://junxian428.github.io/
 
+Gitee: https://junxian_169c.gitee.io/
+
 Google Drive URL: https://x6kuvtgreaqgxwcnz4dbxq-on.drv.tw/www.junxian666.com/
 
 Infinity Free URL: junxian666.42web.io Dynamic Hosting
