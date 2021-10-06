@@ -1,5 +1,45 @@
 ### Hi there 👋
 
+一、北京大学
+
+1、github.com/lib-pku/libpku
+
+2、github.com/tongtzeho/PKUCourse
+
+二、清华大学
+
+Github 地址：
+
+github.com/PKUanonym/REKCARC-TSC-UHT
+
+三、浙江大学
+
+Github 地址：
+
+github.com/QSCTech/zju-icicles
+
+四、中国科学技术大学
+
+Github 地址：
+
+github.com/USTC-Resource/USTC-Course
+
+在线网站地址：
+
+ustc-resource.github.io/USTC-Course/
+
+五、中山大学
+
+Github 地址：
+
+github.com/sysuexam/SYSU-Exam
+
+六、B 站的公开课
+
+Github 地址：
+
+github.com/elder-frog/OpenCourseCatalog
+
 ![Metrics](https://metrics.lecoq.io/junxian428)
 
 <!--
